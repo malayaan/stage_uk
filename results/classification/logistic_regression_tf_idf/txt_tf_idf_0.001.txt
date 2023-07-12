@@ -1,0 +1,23 @@
+Best parameters:  {'C': 0.001}
+
+Classification report:
+               precision    recall  f1-score   support
+
+           0       0.27      0.52      0.35       290
+           1       0.97      0.77      0.86      3832
+           2       0.59      0.96      0.73       835
+
+    accuracy                           0.79      4957
+   macro avg       0.61      0.75      0.65      4957
+weighted avg       0.87      0.79      0.81      4957
+
+
+Parameters: {'C': 0.0001}, Mean Score: 0.7654597877672702, Standard Deviation: 0.007764523840615961
+
+Parameters: {'C': 0.001}, Mean Score: 0.7899727761635948, Standard Deviation: 0.008487297406548622
+
+Parameters: {'C': 0.01}, Mean Score: 0.7811458049155526, Standard Deviation: 0.009835649159469316
+
+Parameters: {'C': 0.1}, Mean Score: 0.7809440649047803, Standard Deviation: 0.010104810257384227
+
+Parameters: {'C': 1}, Mean Score: 0.780994506266697, Standard Deviation: 0.009823877165505037

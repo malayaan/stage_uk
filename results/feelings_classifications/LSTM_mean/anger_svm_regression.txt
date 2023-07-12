@@ -1,0 +1,2 @@
+Best Parameters:  {'C': 1}
+Mean Squared Error:  0.019432794977489114

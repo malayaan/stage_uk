@@ -1,0 +1,108 @@
+Learning Rate: 0.01, Max Depth: 3, N Estimators: 100
+F1 Score Mean: 0.95
+Standard Deviation: 0.007138627319029905
+
+Learning Rate: 0.01, Max Depth: 3, N Estimators: 200
+F1 Score Mean: 0.9658000000000001
+Standard Deviation: 0.003162277660168382
+
+Learning Rate: 0.01, Max Depth: 3, N Estimators: 300
+F1 Score Mean: 0.9690000000000001
+Standard Deviation: 0.004223742416388579
+
+Learning Rate: 0.01, Max Depth: 4, N Estimators: 100
+F1 Score Mean: 0.9557999999999999
+Standard Deviation: 0.0057827329179203895
+
+Learning Rate: 0.01, Max Depth: 4, N Estimators: 200
+F1 Score Mean: 0.9670000000000001
+Standard Deviation: 0.0023151673805580472
+
+Learning Rate: 0.01, Max Depth: 4, N Estimators: 300
+F1 Score Mean: 0.9702
+Standard Deviation: 0.0039698866482558446
+
+Learning Rate: 0.01, Max Depth: 5, N Estimators: 100
+F1 Score Mean: 0.9573999999999999
+Standard Deviation: 0.005642694391866359
+
+Learning Rate: 0.01, Max Depth: 5, N Estimators: 200
+F1 Score Mean: 0.9670000000000001
+Standard Deviation: 0.0020591260281974015
+
+Learning Rate: 0.01, Max Depth: 5, N Estimators: 300
+F1 Score Mean: 0.97
+Standard Deviation: 0.0024166091947189165
+
+Learning Rate: 0.1, Max Depth: 3, N Estimators: 100
+F1 Score Mean: 0.9732000000000001
+Standard Deviation: 0.0014696938456699082
+
+Learning Rate: 0.1, Max Depth: 3, N Estimators: 200
+F1 Score Mean: 0.9743999999999999
+Standard Deviation: 0.0008944271909999167
+
+Learning Rate: 0.1, Max Depth: 3, N Estimators: 300
+F1 Score Mean: 0.974
+Standard Deviation: 0.0016248076809271934
+
+Learning Rate: 0.1, Max Depth: 4, N Estimators: 100
+F1 Score Mean: 0.9733999999999999
+Standard Deviation: 0.0014966629547095778
+
+Learning Rate: 0.1, Max Depth: 4, N Estimators: 200
+F1 Score Mean: 0.9743999999999999
+Standard Deviation: 0.001743559577416271
+
+Learning Rate: 0.1, Max Depth: 4, N Estimators: 300
+F1 Score Mean: 0.9743999999999999
+Standard Deviation: 0.0011661903789690613
+
+Learning Rate: 0.1, Max Depth: 5, N Estimators: 100
+F1 Score Mean: 0.9726
+Standard Deviation: 0.0018547236990991425
+
+Learning Rate: 0.1, Max Depth: 5, N Estimators: 200
+F1 Score Mean: 0.9745999999999999
+Standard Deviation: 0.002059126028197402
+
+Learning Rate: 0.1, Max Depth: 5, N Estimators: 300
+F1 Score Mean: 0.9748
+Standard Deviation: 0.009541488353501259
+
+Learning Rate: 1, Max Depth: 3, N Estimators: 100
+F1 Score Mean: 0.956
+Standard Deviation: 0.006633249580710806
+
+Learning Rate: 1, Max Depth: 3, N Estimators: 200
+F1 Score Mean: 0.9574
+Standard Deviation: 0.006852736679604732
+
+Learning Rate: 1, Max Depth: 3, N Estimators: 300
+F1 Score Mean: 0.957
+Standard Deviation: 0.0025768197453450276
+
+Learning Rate: 1, Max Depth: 4, N Estimators: 100
+F1 Score Mean: 0.9618
+Standard Deviation: 0.009329523031752489
+
+Learning Rate: 1, Max Depth: 4, N Estimators: 200
+F1 Score Mean: 0.9587999999999999
+Standard Deviation: 0.010892199043352091
+
+Learning Rate: 1, Max Depth: 4, N Estimators: 300
+F1 Score Mean: 0.9581999999999999
+Standard Deviation: 0.003979949748426483
+
+Learning Rate: 1, Max Depth: 5, N Estimators: 100
+F1 Score Mean: 0.9572
+Standard Deviation: 0.00755248303539969
+
+Learning Rate: 1, Max Depth: 5, N Estimators: 200
+F1 Score Mean: 0.9569999999999999
+Standard Deviation: 0.009086253353280447
+
+Learning Rate: 1, Max Depth: 5, N Estimators: 300
+F1 Score Mean: 0.9552
+Standard Deviation: 0.0
+
